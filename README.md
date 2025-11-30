@@ -1,5 +1,14 @@
 # Hi there 👋
 
+**Hi, I'm Bharath CD**
+
+* Google Developer AI/ML Engineer (Learning Path)
+* 2nd year CSE student @ PES University
+* Loves AI, ML, DSA and Systems
+* Email: **[cdbharath234@gmail.com](mailto:cdbharath234@gmail.com)**
+
+👋
+
 <p align="center">
   <img src="https://github.com/ishandutta2007/ishandutta2007/raw/main/chat.svg" alt="chat" width="56" />
 </p>
