@@ -9,9 +9,7 @@
 
 👋
 
-<p align="center">
-  <img src="https://github.com/ishandutta2007/ishandutta2007/raw/main/chat.svg" alt="chat" width="56" />
-</p>
+
 
 # 💫 About Me
 
